@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Test Otomasyon Eğit
 ![](https://imgyukle.com/f/2022/11/06/JR2Zz8.png)
 ## Installation
 ***
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın.
 ```
 https://github.com/YesimOZTURKK/kodluyoruzilkrepo.git
 ```

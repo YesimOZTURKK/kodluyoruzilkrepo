@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Test Otomasyon Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![](https://imgyukle.com/f/2022/11/06/JR2Zz8.png)
+![](https://imgyukle.com/f/2022/11/06/JVVQTM.png)
 ## Installation
 ***
 Öncelikle projeyi clonelayın.
